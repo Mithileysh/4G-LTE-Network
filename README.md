@@ -16,3 +16,5 @@ The dataset was created by capturing packets on a 4G connection using Wireshark.
 
 The purpose of this work is to process 4G IP data, find basic patterns and build several training models that predict traffic on the LTE network.
 
+
+# Project 4 - 4G IP traffic prediction using machine learning
